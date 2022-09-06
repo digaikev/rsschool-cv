@@ -16,6 +16,7 @@
 * JavaScript Basics
 * Git, GitHub
 * Soft skills
+
 ===
 ## About myself:
 
