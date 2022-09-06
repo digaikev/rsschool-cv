@@ -1,1 +1,1 @@
-https://digaikev.github.io/rsschool-cv/cv
+https://digaikev.github.io/rsschool-cv/cv 
