@@ -1,6 +1,6 @@
 ===
 # Dmitry Gaikevich
-===
+`
 ## My contact Information:
 
 * __Mobile Phone:__ +375291421786
@@ -8,7 +8,6 @@
 * __Telegram:__ @di_gaikev
 * __GitHub:__ https://github.com/digaikev
 
-===
 ## Skills:
 
 * HTML5
@@ -17,7 +16,6 @@
 * Git, GitHub
 * Soft skills
 
-===
 ## About myself:
 
 I had no experience in commercial development, I'm a 3rd year student, but I really want to join this area. 
@@ -25,13 +23,10 @@ My goal is to try to pass this course, or at least get good experience and knowl
 I am a blank canvas on which to paint a beautiful picture.
 
 
-===
 ## Code example:
-===
 > I had plenty of time and basic knowledge of js.
 > Sooo much time...
 > But it didn't work
-===
 
 **KATA from CODEWARS:** Your task in order to complete this Kata is to write a function which formats a duration, given as a number of seconds, in a human-friendly way.
 
@@ -77,13 +72,11 @@ function formatDuration (seconds) {
   }
 }
 ```
-===
 
 ## Education
 
 * University: Belarusian National Technical University, micro and nanosystem technology
 
-===
 ## English
 
 * **A2**
