@@ -1,2 +1,2 @@
-# rsschool-cv
-https://digaikev.github.io/rsschool-cv/cv
+# rsschool-cv 
+[Ссылка ТЫК*](https://digaikev.github.io/rsschool-cv/cv)
