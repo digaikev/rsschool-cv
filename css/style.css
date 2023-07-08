@@ -1,0 +1,174 @@
+/* STYLE RESET */
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+    margin: 0;
+}
+
+ul[class],
+ol[class] {
+    padding: 0;
+}
+
+/* START */
+
+body {
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 0;
+
+    background: url(../assets/img/Paper.png), lightgray 50% / cover no-repeat;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    line-height: 1.5;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+
+    display: flex;
+    flex-flow: wrap;
+}
+
+/* HEADER */
+
+.main-header {
+
+    background-color: #9ea6bba4;
+}
+
+.navbar {
+    width: 100%;
+    height: 70px;
+}
+
+.navbar .container {
+    height: 70px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.navbar-wrap {
+    display: flex;
+    flex-flow: nowrap;
+}
+
+.navbar-menu {
+    list-style: none;
+}
+
+.navbar-menu li {
+    display: inline-block;
+}
+
+.navbar-menu li a {
+    display: inline-block;
+    padding-left: 100px;
+
+    color: #FFF;
+    opacity: 0.7;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+
+.navbar-menu li a:hover {
+    opacity: 1;
+}
+
+
+
+
+/* MAIN */
+
+main {
+    background: url(../assets/img/Paper.png), lightgray 50% / cover no-repeat;
+}
+
+
+.divider {
+    width: 100%;
+    height: 2px;
+    background-color: rgb(228, 154, 57);
+}
+
+.section {
+    width: 50%;
+    padding: 10px;
+    border-bottom: 2px solid rgba(67, 67, 126, 0.363);
+}
+
+.section h2 {
+    font-size: 30px;
+    text-align: left;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+/* passport */
+.section-passport {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+
+    border-bottom: 10px solid rgba(0, 0, 0, 0.413);
+}
+
+.section-passport-photo {
+    width: 300px;
+    border-radius: 50%;
+    border: 3px solid #000;
+    margin-bottom: 30px;
+}
+
+.section-passport-title {
+    text-align: center;
+}
+
+.section-passport-title h1 {
+    font-size: 40px;
+}
+
+/* contacts */
+
+.section-contacts-list {
+    font-size: 24px;
+}
+
+/* summary */
+.section-summary-description {
+    font-size: 24px;
+}
+
+/* FOOTER */
+
+.main-footer {
+    height: 120px;
+    background-color: rgba(255, 99, 71, 0.521);
+}
