@@ -125,9 +125,13 @@ main {
 
 .section h2 {
     font-size: 30px;
+    font-weight: 400;
     text-align: left;
     text-transform: uppercase;
+    letter-spacing: 5px;
+
     margin-bottom: 10px;
+    color: #829985;
 }
 
 /* passport */
@@ -174,9 +178,9 @@ main {
 
 /* code */
 
-.section-code-example {
+.section-code {
     margin: 0;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 /*COURSES */
