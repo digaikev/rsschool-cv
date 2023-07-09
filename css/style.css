@@ -108,6 +108,7 @@ body {
 
 main {
     background: url(../assets/img/Paper.png), lightgray 50% / cover no-repeat;
+    margin-bottom: auto;
 }
 
 .section {
